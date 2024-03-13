@@ -6,4 +6,4 @@ Preconfigured BepInEx 5.4.22 for Get To The Orange Door.
  - Unstripped Unity 2021.3.31 `_data/Managed/` DLL files
  - A few config changes (enabled console, etc)
 ## INSTALLATION:
-Drop these files into your Get To The Orange Door folder, such that `winhttp.dll` and `doorstop_config.ini` are in the same folder as `Get To The Orange Door.exe`. Does not require `README.MD` of course.
+Drop these files into your Get To The Orange Door folder, such that `winhttp.dll` and `doorstop_config.ini` are in the same folder as `Get To The Orange Door.exe`. Does not require `README.MD` of course. the `unstrip` and `doorstop_config.ini` are ESSENTIAL for BepInEx to work correctly.
